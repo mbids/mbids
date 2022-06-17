@@ -29,5 +29,5 @@ const mbids = {
 
 ## __Stats__
 
-[![Mathias Bidstrup](https://github-readme-stats.vercel.app/api?username=SteffenGivard&show_icons=true&count_private=true&theme=black)](https://https://github.com/mbids)
+[![Mathias Bidstrup](https://github-readme-stats.vercel.app/api?username=mbids&show_icons=true&count_private=true&theme=dark)](https://https://github.com/mbids)
 
