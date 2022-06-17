@@ -27,4 +27,7 @@ const mbids = {
 [![Gmail Badge](https://img.shields.io/badge/-mathiz123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathiz123@gmail.com)](mailto:mathiz123@gmail.com) 
 [![Twitter Badge](https://img.shields.io/badge/-@mattestic-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mattestic) ](https://twitter.com/mattestic)
 
+## __Stats__
+
+[![Mathias Bidstrup](https://github-readme-stats.vercel.app/api?username=SteffenGivard&show_icons=true&count_private=true&theme=black)](https://https://github.com/mbids)
 
