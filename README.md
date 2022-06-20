@@ -16,7 +16,7 @@ const mbids = {
         devOps: ["Azure", "Docker🐳", "K8s", "Terraform", "Grafana", "Prometheus", "Helm", "GH Actions" ],
         databases: ["MSSQL", "PostgreSQL", "sqlite"],
     },
-    certifications: ["GitHub Actions", "GitHub Administration", "GitHub Advanced Security", "AZ-900"]
+    certifications: ["GitHub Actions", "GitHub Administration", "GitHub Advanced Security", "AZ-900"],
     currentFocus: "Consulting on DevOps methods and technologies "
 };
 ```
