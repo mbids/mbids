@@ -24,7 +24,7 @@ const mbids = {
 
 #### ___Feel free to contact me:___
 [![Linkedin Badge](https://img.shields.io/badge/-MathiasBidstrup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathiasbidstrup/)](https://www.linkedin.com/in/mathiasbidstrup/) 
-[![Twitter Badge](https://img.shields.io/badge/-@mattestic-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mattestic) ](https://twitter.com/mattestic)
+
 
 
 ## __Stats__
