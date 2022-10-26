@@ -4,7 +4,7 @@
 
 ```javascript
 const mbids = {
-    pronouns: ["He", "Him", "Nerd"],
+    pronouns: "He" | "Him",
     askMeAbout: ["DevOps", "ALM", "GitHub", "Azure", "Cars", "Golf"],
     technologies: {
         code: {
