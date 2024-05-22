@@ -14,7 +14,7 @@ const mbids = {
         scripting: {
             ["PowerShell","Python","JavaScript"]
         },
-        devOps: ["Azure", "Docker🐳", "K8s", "Terraform", "Grafana", "Prometheus", "Helm", "GH Actions" ],
+        devOps: ["Azure", "Docker🐳", "K8s", "Terraform", "Grafana", "Prometheus", "Helm", "GitHub Actions", "GitHub Self-Hosted runners", "GitHub CoPilot" ],
         databases: ["MSSQL", "PostgreSQL", "sqlite"],
     },
     certifications: ["GitHub Actions", "GitHub Administration", "GitHub Advanced Security", "AZ-900"],
