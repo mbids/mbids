@@ -5,7 +5,8 @@
 ```javascript
 const mbids = {
     pronouns: "He" | "Him",
-    askMeAbout: ["DevOps", "ALM", "GitHub", "Azure", "Cars", "Golf"],
+    askMeAbout: ["DevOps", "ALM", "GitHub", "Azure", "Cars", "Motorcycles", ""],
+    currentFocus: [ "Architecting self-hosted runner solutions with kubernetes", "Delivering trainings on CoPilot", "Consulting on DevOps methodoligies and technologies" ],
     technologies: {
         code: {
             [".NET", "Python"]
@@ -17,7 +18,7 @@ const mbids = {
         databases: ["MSSQL", "PostgreSQL", "sqlite"],
     },
     certifications: ["GitHub Actions", "GitHub Administration", "GitHub Advanced Security", "AZ-900"],
-    currentFocus: "Consulting on DevOps methods and technologies "
+    accreditations: ["GitHub Migrations", "GitHub Migrations Legacy"]
 };
 ```
 
